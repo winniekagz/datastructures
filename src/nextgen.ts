@@ -47,3 +47,4 @@ const [hobby1,hobby2,...remaining]=hobies
 //  personn.hobbies=hobies
 
 // classes&interfaces
+
